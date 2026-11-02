@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- Exe = 生成一个可以双击运行的程序（而不是一个库） -->
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>FistGame</RootNamespace>
+    <AssemblyName>FistGame</AssemblyName>
+  </PropertyGroup>
+
+</Project>
